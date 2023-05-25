@@ -1,4 +1,4 @@
-baseURL = "https://maxlandesz.com/"
+baseURL = "http://maxlandesz.com/quartz"
 languageCode = "en-us"
 relativeURLs = false
 disablePathToLower = true
