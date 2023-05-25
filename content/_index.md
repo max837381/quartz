@@ -5,8 +5,9 @@ enableToc: true
 
 A collection of my notes starting from my Master’s degree at UCSC.
 
-[[notes/Bayes Rule]]
+[[notes/Macroeconomics]]
 
--statistics
-\#statistics
+[[notes/Taxation]]
+
+[[notes/Causal Inference]]
 
