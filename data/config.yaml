@@ -9,8 +9,8 @@ enableCallouts: true
 enableSPA: true
 enableFooter: true
 enableContextualBacklinks: true
-enableRecentNotes: false
-enableGitHubEdit: true
+enableRecentNotes: true
+enableGitHubEdit: false
 enableMermaid: true
 GitHubLink: https://github.com/max837381/quartz/tree/hugo/content
 search:
@@ -20,7 +20,7 @@ search:
 description:
   My college notes from UCSC
 page_title:
-  "Max's College Notes"
+  "📓 Max's College Notes"
 links:
   - link_name: LinkedIn
     link: https://www.linkedin.com/in/maxlandesz
