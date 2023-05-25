@@ -1,7 +1,6 @@
 ---
-title: “Bayes Theorem”
-tags:
-- statistics
+---
+
 ---
 
 What is Bayes Theorem?
@@ -14,10 +13,10 @@ The normalizing denominator in Bayes Theorem is important because it helps you c
 
 Bayes Theorem is a way to figure out the probability of something being true, even if you don't know all the facts. It uses a normalizing denominator to make sure all the probabilities add up to one, so you can make an educated guess.
 
--   Bayes Theorem is a way to figure out how likely something is to be true.
--   It helps you make an educated guess about something that might be true, even if you don't know for sure.
--   The normalizing denominator in Bayes Theorem is important for properly calculating the likelihood of something being true.
--   Bayes Theorem uses a normalizing denominator to make sure all the probabilities add up to one, so you can make an informed decision.
+* Bayes Theorem is a way to figure out how likely something is to be true.
+* It helps you make an educated guess about something that might be true, even if you don't know for sure.
+* The normalizing denominator in Bayes Theorem is important for properly calculating the likelihood of something being true.
+* Bayes Theorem uses a normalizing denominator to make sure all the probabilities add up to one, so you can make an informed decision.
 
 Bayesian Statistics is a branch of statistics that uses probability theory to make inferences about unknown parameters. It is based on the assumption that all data is uncertain, and that "prior knowledge" can be used to update the probability of a given outcome.
 

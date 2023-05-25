@@ -1,9 +1,5 @@
 ---
-title: “Bayes Rule”
-tags:
-- statistics
 ---
-
 
 Bayes' Rule is a theorem in probability theory that states that the probability of an event, given some prior knowledge, can be calculated by multiplying the prior probability of the event by the probability of the event given the prior knowledge. This is expressed using the following formula:
 
