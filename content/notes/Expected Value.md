@@ -1,4 +1,0 @@
----
----
-
-Expectation in statistics?
