@@ -1,0 +1,3 @@
+#!/bin/zsh
+
+export GOPATH=/Users/$USER/go; export GOROOT="$(/opt/homebrew/Cellar/go/*/libexec/bin/go)"; export PATH="$PATH:${GOPATH}/bin:${GOROOT}/bin"; cd /Users/max/Documents/Github/quartz; nodemon -w /Users/max/Library/Mobile Documents/iCloud~md~obsidian/Documents/Test -w /Users/max/Documents/Github/quartz/assets/js -w /Users/max/Documents/Github/quartz/assets/styles -w /Users/max/Documents/Github/quartz/layouts -w /Users/max/Documents/Github/quartz/config.toml -w /Users/max/Documents/Github/quartz/data/config.yaml -x "/Users/max/Documents/Github/compile.sh" -e md,html,js,scss,xml
