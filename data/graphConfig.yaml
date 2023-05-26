@@ -23,8 +23,8 @@ globalGraph:
     enableLegend: false
     enableDrag: true
     enableZoom: true
-    depth: 8 # set to -1 to show full graph
-    scale: 1.1
+    depth: 5 # set to -1 to show full graph
+    scale: 1.3
     repelForce: 1
     centerForce: 1
     linkDistance: 1
