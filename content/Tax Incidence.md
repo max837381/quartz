@@ -1,7 +1,4 @@
 ---
-title: Tax Incidence
-date created: "Tuesday, April 11th 2023, 11:53:01 am"
-date modified: "Thursday, May 25th 2023, 1:25:20 am"
 ---
 
 The study of the effects of tax policies on prices and the distribution of utilities

@@ -1,7 +1,4 @@
 ---
-title: Randomized Control Trial (RCT)
-date created: "Tuesday, January 31st 2023, 6:23:03 pm"
-date modified: "Thursday, May 25th 2023, 1:25:20 am"
 ---
 
 "Gold standard" for [Causal Inference](Causal%20Inference.md)

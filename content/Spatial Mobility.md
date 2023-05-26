@@ -1,7 +1,4 @@
 ---
-title: Spatial Mobility
-date created: "Tuesday, April 4th 2023, 12:47:18 pm"
-date modified: "Thursday, May 25th 2023, 1:25:20 am"
 ---
 
 ## Agglomeration and superstar cities

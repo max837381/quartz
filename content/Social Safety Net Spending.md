@@ -1,7 +1,4 @@
 ---
-title: Social Safety Net Spending
-date created: "Tuesday, May 2nd 2023, 11:51:33 am"
-date modified: "Thursday, May 25th 2023, 1:25:20 am"
 ---
 
 Programs can be categorical or means-tested

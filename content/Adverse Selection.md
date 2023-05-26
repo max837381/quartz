@@ -1,7 +1,4 @@
 ---
-title: Adverse Selection
-date created: "Thursday, April 6th 2023, 12:28:02 pm"
-date modified: "Thursday, May 25th 2023, 1:25:20 am"
 ---
 
 Define adverse selection and explain in terms of economics

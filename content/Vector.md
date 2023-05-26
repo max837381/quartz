@@ -1,7 +1,4 @@
 ---
-title: Vector
-date created: "Wednesday, April 5th 2023, 1:06:05 am"
-date modified: "Thursday, May 25th 2023, 1:25:20 am"
 ---
 
 Explain simply what vectors are and how they are using in data science and in programming languages like R

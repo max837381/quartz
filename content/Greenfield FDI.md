@@ -1,7 +1,4 @@
 ---
-title: Greenfield FDI
-date created: "Thursday, April 20th 2023, 6:27:50 pm"
-date modified: "Thursday, May 25th 2023, 1:25:20 am"
 ---
 
 Greenfield FDI refers to a type of foreign direct investment where a company establishes a new business or facility from scratch in a foreign country. This investment involves building new infrastructure, acquiring land, hiring employees and creating a new business entity. It is called "greenfield" because the investment is built on undeveloped or "green" land. 

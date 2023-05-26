@@ -1,7 +1,4 @@
 ---
-title: Cross-Validation
-date created: "Sunday, May 7th 2023, 4:24:05 pm"
-date modified: "Thursday, May 25th 2023, 1:25:20 am"
 ---
 
 We split the whole training set into **multiple validation sets** (known as folds)

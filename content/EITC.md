@@ -1,7 +1,4 @@
 ---
-title: EITC
-date created: "Thursday, May 4th 2023, 11:52:34 am"
-date modified: "Thursday, May 25th 2023, 1:25:20 am"
 ---
 
 EITC stands for Earned Income Tax Credit. It is a refundable tax credit for low to moderate-income working individuals and families. The EITC is designed to provide financial assistance to those who are struggling to make ends meet, while also incentivizing work.

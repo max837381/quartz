@@ -1,7 +1,4 @@
 ---
-title: Probability Measures
-date created: "Sunday, February 19th 2023, 5:24:10 pm"
-date modified: "Thursday, May 25th 2023, 1:25:20 am"
 ---
 
 Measures with a total mass = 1
@@ -28,4 +25,4 @@ $\mathbb{P}: A \rightarrow \mathbb{R}$
 
 A = collection of subsets
 
-If subsets A, B are disjoint (i.e. no overlap in area)
+If subsets A, B are disjoint (i.e. no overlap in area) 

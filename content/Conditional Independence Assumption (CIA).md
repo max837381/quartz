@@ -1,7 +1,4 @@
 ---
-title: Conditional Independence Assumption (CIA)
-date created: "Tuesday, March 21st 2023, 9:07:25 pm"
-date modified: "Thursday, May 25th 2023, 1:25:20 am"
 ---
 
 The Conditional Independence Assumption in probability theory states that, given certain conditions or events, the probability of two variables is independent of each other. In simpler terms, it means that the occurrence of one event does not impact the probability of the other event happening.

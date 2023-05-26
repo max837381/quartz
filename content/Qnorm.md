@@ -1,7 +1,4 @@
 ---
-title: Qnorm
-date created: "Sunday, April 2nd 2023, 12:46:09 pm"
-date modified: "Thursday, May 25th 2023, 1:25:20 am"
 ---
 
 Q standas for qunailte

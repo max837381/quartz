@@ -1,7 +1,4 @@
 ---
-title: Equally-Likely Model
-date created: "Saturday, February 18th 2023, 5:12:09 pm"
-date modified: "Thursday, May 25th 2023, 1:25:20 am"
 ---
 
 Also known as ELM

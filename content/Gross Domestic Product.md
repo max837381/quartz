@@ -1,7 +1,4 @@
 ---
-title: Gross Domestic Product
-date created: "Tuesday, April 4th 2023, 6:09:14 pm"
-date modified: "Thursday, May 25th 2023, 1:25:20 am"
 ---
 
 * Value of all final goods
@@ -123,3 +120,5 @@ CA = NX + NFP
 GNP = C + I + G + CA
 GDP = C + I + G + NX
 GNP = GDP + NFP = C + I + G + NX + NFP
+
+[Output Gap](Output%20Gap.md)

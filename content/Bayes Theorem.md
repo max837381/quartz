@@ -1,7 +1,4 @@
 ---
-title: Bayes Theorem
-date created: "Monday, February 13th 2023, 7:06:24 pm"
-date modified: "Thursday, May 25th 2023, 1:25:20 am"
 ---
 
 ---

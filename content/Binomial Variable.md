@@ -1,7 +1,4 @@
 ---
-title: Binomial Variable
-date created: "Monday, May 8th 2023, 12:05:22 pm"
-date modified: "Thursday, May 25th 2023, 1:25:20 am"
 ---
 
 \[0,1] variable

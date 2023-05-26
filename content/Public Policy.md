@@ -1,7 +1,4 @@
 ---
-title: Public Policy
-date created: "Wednesday, March 22nd 2023, 5:17:29 pm"
-date modified: "Thursday, May 25th 2023, 1:25:20 am"
 ---
 
 Incorporate the following terms always: trade-off, incentives, marginal people, over or under allocating, equality, internalities, peer effects and spillovers

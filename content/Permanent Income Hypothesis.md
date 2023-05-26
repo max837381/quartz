@@ -1,7 +1,4 @@
 ---
-title: Permanent Income Hypothesis
-date created: "Friday, April 7th 2023, 1:34:37 pm"
-date modified: "Thursday, May 25th 2023, 1:25:20 am"
 ---
 
 Consider an individual who lives for T periods with lifetime utility

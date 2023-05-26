@@ -1,7 +1,4 @@
 ---
-title: Elemental Outcomes
-date created: "Saturday, February 18th 2023, 5:35:17 pm"
-date modified: "Thursday, May 25th 2023, 1:25:20 am"
 ---
 
 [Equipossible](Equipossible.md) outcomes and elemental outcomes are not the same.

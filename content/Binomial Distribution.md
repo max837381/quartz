@@ -1,7 +1,4 @@
 ---
-title: Binomial Distribution
-date created: "Wednesday, February 1st 2023, 9:34:41 pm"
-date modified: "Thursday, May 25th 2023, 1:25:20 am"
 ---
 
 **ChatGPT Made:**

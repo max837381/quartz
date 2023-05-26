@@ -1,7 +1,4 @@
 ---
-title: Income Inequality
-date created: "Tuesday, April 4th 2023, 12:13:03 pm"
-date modified: "Thursday, May 25th 2023, 1:25:20 am"
 ---
 
 Trend picture:

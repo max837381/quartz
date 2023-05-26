@@ -1,7 +1,4 @@
 ---
-title: Logistic Regression
-date created: "Wednesday, February 8th 2023, 6:31:41 pm"
-date modified: "Thursday, May 25th 2023, 1:25:20 am"
 ---
 
 Also known as: Logit
@@ -14,4 +11,4 @@ Time Varying Logit?
 
 [Pseudo R-squared](Pseudo%20R-squared.md)
 
-[z-value](z-value.md)
+[Z-value](Z-value.md)

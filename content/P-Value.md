@@ -1,7 +1,4 @@
 ---
-title: P-Value
-date created: "Monday, May 8th 2023, 12:00:54 pm"
-date modified: "Thursday, May 25th 2023, 1:25:20 am"
 ---
 
 P-value is a **measure of similarity between things** or a probability of similarity

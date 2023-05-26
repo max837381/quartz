@@ -1,7 +1,4 @@
 ---
-title: Distributions
-date created: "Wednesday, March 1st 2023, 6:26:34 pm"
-date modified: "Thursday, May 25th 2023, 1:25:20 am"
 ---
 
 ## What is the difference between a Probability Mass Function and a Probability Density Function

@@ -1,7 +1,4 @@
 ---
-title: Asymptotics
-date created: "Saturday, March 25th 2023, 5:01:06 pm"
-date modified: "Thursday, May 25th 2023, 1:25:20 am"
 ---
 
 The behavior of a function $\large f(x)$ as $\large x$ becomes very large $\large x \rightarrow \infty$

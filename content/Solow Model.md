@@ -1,10 +1,4 @@
 ---
-title: Capital Account Lib. is an extension of Solow Model but Neoclassical is a different model
-aliases:
-  - Capital Account Lib. is an extension of Solow Model but Neoclassical is a different model
-linter-yaml-title-alias: Capital Account Lib. is an extension of Solow Model but Neoclassical is a different model
-date created: "Friday, April 14th 2023, 1:40:17 pm"
-date modified: "Thursday, May 25th 2023, 1:25:20 am"
 ---
 
 ## Production Function

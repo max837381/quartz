@@ -1,7 +1,4 @@
 ---
-title: Consumption
-date created: "Tuesday, April 4th 2023, 6:19:46 pm"
-date modified: "Thursday, May 25th 2023, 1:25:20 am"
 ---
 
 ## Macroeconomics

@@ -1,7 +1,4 @@
 ---
-title: Cumulative Density Function (CDF)
-date created: "Monday, February 13th 2023, 7:08:41 pm"
-date modified: "Thursday, May 25th 2023, 1:25:20 am"
 ---
 
 A function that describes the probability that a random variable is less than or equal to a certain value. This can be thought of as a cumulative probability distribution where the probability of a given event is the area under a curve up to the point of the event. For example, if the CDF of a variable is 0.2 at a point x, then the probability of the variable being less than or equal to x is 0.2.

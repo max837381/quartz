@@ -1,10 +1,7 @@
 ---
-title: Bayes Box
-date created: "Wednesday, February 1st 2023, 1:34:35 am"
-date modified: "Thursday, May 25th 2023, 1:25:20 am"
 ---
 
-Bayes Box is a tool for visualizing the relationships between *Probability Distribution* and events. It is based on [Bayes Theorem](Bayes%20Theorem.md), which states that the [Probability](Probability.md) of an event, given some prior knowledge, can be calculated by multiplying the [prior probability](Prior%20Probability.md) of the event by the probability of the event given the prior knowledge. This is expressed using the following formula:
+Bayes Box is a tool for visualizing the relationships between [Probability Distribution](Probability%20Distribution.md) and events. It is based on [Bayes Theorem](Bayes%20Theorem.md), which states that the [Probability](Probability.md) of an event, given some prior knowledge, can be calculated by multiplying the [prior probability](Prior%20Probability.md) of the event by the probability of the event given the prior knowledge. This is expressed using the following formula:
 
 $$P(A|B) = \frac{P(B|A)P(A)}{P(B)}$$
 

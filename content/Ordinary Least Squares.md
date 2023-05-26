@@ -1,7 +1,4 @@
 ---
-title: Ordinary Least Squares
-date created: "Tuesday, January 31st 2023, 6:14:35 pm"
-date modified: "Thursday, May 25th 2023, 1:25:20 am"
 ---
 
 The estimator assumes:

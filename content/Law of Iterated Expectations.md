@@ -1,7 +1,4 @@
 ---
-title: Law of Iterated Expectations
-date created: "Monday, February 13th 2023, 6:52:36 pm"
-date modified: "Thursday, May 25th 2023, 1:25:20 am"
 ---
 
 The law of iterated expectations is a way of understanding that the [Probability](Probability.md) of something happening is based on the probability of something else happening. It's like a chain reaction!

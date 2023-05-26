@@ -1,10 +1,13 @@
 ---
-title: Data Manipulation in R
-date created: "Wednesday, March 15th 2023, 3:30:58 pm"
-date modified: "Thursday, May 25th 2023, 1:25:20 am"
 ---
 
 ## Subsetting the data
+
+#### Taking out a column
+
+````R
+df$column <- NULL
+````
 
 #### Based on column value
 

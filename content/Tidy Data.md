@@ -1,7 +1,4 @@
 ---
-title: Tidy Data
-date created: "Sunday, May 7th 2023, 5:14:08 pm"
-date modified: "Thursday, May 25th 2023, 1:25:20 am"
 ---
 
 ![Screenshot 2023-05-07 at 5.18.00 PM.png](Image%20Bank/Screenshot%202023-05-07%20at%205.18.00%20PM.png)

@@ -1,7 +1,4 @@
 ---
-title: Frequentist Statistics
-date created: "Saturday, March 25th 2023, 4:44:20 pm"
-date modified: "Thursday, May 25th 2023, 1:25:20 am"
 ---
 
 Frequentist statistics is an approach to statistical inference that relies on the frequentist interpretation of probability. In this approach, probability is defined as the long-run frequency of an event occurring in a large number of repeated trials. Frequentist methods focus on estimating parameters of a population from a sample using techniques such as maximum likelihood estimation and hypothesis testing.

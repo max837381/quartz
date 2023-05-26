@@ -1,7 +1,4 @@
 ---
-title: Histogram
-date created: "Wednesday, February 8th 2023, 5:39:14 pm"
-date modified: "Thursday, May 25th 2023, 1:25:20 am"
 ---
 
 Density function:

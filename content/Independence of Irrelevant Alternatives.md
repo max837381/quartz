@@ -1,7 +1,4 @@
 ---
-title: Independence of Irrelevant Alternatives
-date created: "Thursday, February 2nd 2023, 4:45:29 pm"
-date modified: "Thursday, May 25th 2023, 1:25:20 am"
 ---
 
 Also known as IIA

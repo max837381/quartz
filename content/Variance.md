@@ -1,7 +1,4 @@
 ---
-title: Variance
-date created: "Tuesday, March 21st 2023, 7:28:43 pm"
-date modified: "Thursday, May 25th 2023, 1:25:20 am"
 ---
 
 This is [Standard Deviation](Standard%20Deviation.md) squared

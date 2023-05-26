@@ -1,7 +1,4 @@
 ---
-title: Propensity-score reweighting
-date created: "Monday, May 8th 2023, 6:39:00 pm"
-date modified: "Thursday, May 25th 2023, 1:25:20 am"
 ---
 
 Propensity-score reweighting is a statistical technique used in economics to control for observables, which are the characteristics of individuals or groups that can affect the outcome of an experiment or study. The technique involves creating a propensity score, which is the probability of an individual or group being assigned to a treatment group based on their observable characteristics.

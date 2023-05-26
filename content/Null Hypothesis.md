@@ -1,7 +1,4 @@
 ---
-title: Null Hypothesis
-date created: "Wednesday, February 1st 2023, 1:41:25 am"
-date modified: "Thursday, May 25th 2023, 1:25:20 am"
 ---
 
 A null hypothesis is a statement that states that there is no difference between two groups or sets of data. It is used in scientific experiments and research to determine whether a certain outcome is due to chance or if there is a real difference between the groups.

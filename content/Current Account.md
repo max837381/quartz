@@ -1,7 +1,4 @@
 ---
-title: Current Account
-date created: "Thursday, April 6th 2023, 5:48:27 pm"
-date modified: "Thursday, May 25th 2023, 1:25:20 am"
 ---
 
 "Magic of the current account" - Galina Hale

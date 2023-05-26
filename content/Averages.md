@@ -1,7 +1,4 @@
 ---
-title: Averages
-date created: "Tuesday, April 18th 2023, 12:57:53 pm"
-date modified: "Thursday, May 25th 2023, 1:25:20 am"
 ---
 
 ## Unweighted Average

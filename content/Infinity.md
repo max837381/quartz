@@ -1,7 +1,4 @@
 ---
-title: "Infinity"
-date created: "Wednesday, April 19th 2023, 9:44:54 pm"
-date modified: "Thursday, May 25th 2023, 1:25:20 am"
 ---
 
 Infinity / (infinity + 1) = 1 / 1 = 1

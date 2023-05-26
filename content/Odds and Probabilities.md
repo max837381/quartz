@@ -1,7 +1,4 @@
 ---
-title: Odds and Probabilities
-date created: "Wednesday, April 19th 2023, 9:48:21 pm"
-date modified: "Thursday, May 25th 2023, 1:25:20 am"
 ---
 
 [Odds](Odds.md) and probabilities are two different ways of expressing the likelihood or chance of an event occurring.

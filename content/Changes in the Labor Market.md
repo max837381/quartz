@@ -1,7 +1,4 @@
 ---
-title: Changes in the Labor Market
-date created: "Tuesday, April 4th 2023, 12:20:11 pm"
-date modified: "Thursday, May 25th 2023, 1:25:20 am"
 ---
 
 ## Productivity

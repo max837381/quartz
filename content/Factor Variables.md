@@ -1,7 +1,4 @@
 ---
-title: Factor Variables
-date created: "Sunday, March 26th 2023, 11:21:22 pm"
-date modified: "Thursday, May 25th 2023, 1:25:20 am"
 ---
 
 I believe this is a way of saying categorical in R #todo

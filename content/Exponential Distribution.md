@@ -1,7 +1,4 @@
 ---
-title: Exponential Distribution
-date created: "Wednesday, February 22nd 2023, 5:38:44 pm"
-date modified: "Thursday, May 25th 2023, 1:25:20 am"
 ---
 
 [![Solved: Probability - Exponential Distribution Derive The ... | Chegg.com](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fd2vlcm61l7u1fs.cloudfront.net%2Fmedia%2F34e%2F34e3ced3-6e4b-4207-8d67-16f43e0471a5%2Fphpnbnszx.png&f=1&nofb=1&ipt=31d1ab084d59c3001e635d9c49a9a9cf3e19a094f8042bccf0053ef1ae2f021a&ipo=images)](https://d2vlcm61l7u1fs.cloudfront.net/media/34e/34e3ced3-6e4b-4207-8d67-16f43e0471a5/phpnbnszx.png)

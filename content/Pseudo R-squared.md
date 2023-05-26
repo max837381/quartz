@@ -1,7 +1,4 @@
 ---
-title: Pseudo R-squared
-date created: "Wednesday, April 19th 2023, 11:04:45 pm"
-date modified: "Thursday, May 25th 2023, 1:25:20 am"
 ---
 
 in [R](R.md):

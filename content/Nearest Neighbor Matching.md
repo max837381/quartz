@@ -1,7 +1,4 @@
 ---
-title: Nearest Neighbor Matching
-date created: "Tuesday, April 11th 2023, 1:05:31 pm"
-date modified: "Thursday, May 25th 2023, 1:25:20 am"
 ---
 
 Nearest neighbor matching explain

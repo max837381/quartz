@@ -1,7 +1,4 @@
 ---
-title: Robust Regression
-date created: "Sunday, May 7th 2023, 7:00:07 pm"
-date modified: "Thursday, May 25th 2023, 1:25:20 am"
 ---
 
 Provides a solution to [Outliers](Outliers.md) and high leverage observations

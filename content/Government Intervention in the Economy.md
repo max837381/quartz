@@ -1,7 +1,4 @@
 ---
-title: Government Intervention in the Economy
-date created: "Thursday, April 6th 2023, 11:52:20 am"
-date modified: "Thursday, May 25th 2023, 1:25:20 am"
 ---
 
 ## Public Policy Analysis

@@ -1,7 +1,4 @@
 ---
-title: Regularization
-date created: "Wednesday, May 3rd 2023, 8:09:13 pm"
-date modified: "Thursday, May 25th 2023, 1:25:20 am"
 ---
 
 ## Model Complexity

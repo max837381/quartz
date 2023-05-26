@@ -1,7 +1,4 @@
 ---
-title: National Income Accounts
-date created: "Tuesday, April 4th 2023, 6:02:17 pm"
-date modified: "Thursday, May 25th 2023, 1:25:20 am"
 ---
 
 National Income

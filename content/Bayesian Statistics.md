@@ -1,6 +1,4 @@
 ---
-title: Bayesian Statistics
-date created: "Monday, January 30th 2023, 5:42:37 pm"
 ---
 
 In [Bayesian Statistics](Bayesian%20Statistics.md) the interpretation of what [Probability](Probability.md) means is that is a statement of *how certain you are that some statement, or proposition is true.* 
@@ -19,7 +17,7 @@ The probability we started with is called the [Prior Probability](Prior%20Probab
 
 #### Imagine the following experiment
 
-We only know that one of the following * hypotheses* is true
+We only know that one of the following [Hypothesis](Hypothesis.md) is true
 
  > 
  > BB: Both balls are black

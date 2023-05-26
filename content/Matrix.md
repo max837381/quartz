@@ -1,7 +1,4 @@
 ---
-title: Matrix
-date created: "Wednesday, April 5th 2023, 1:01:41 am"
-date modified: "Thursday, May 25th 2023, 1:25:20 am"
 ---
 
 Explain simply what a matrix is and give an example. also, tell me how it relates to data and how it can be used in languages like R and Python. Be simple but thorough.

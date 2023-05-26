@@ -1,7 +1,4 @@
 ---
-title: Income Taxation
-date created: "Thursday, April 20th 2023, 11:47:14 am"
-date modified: "Thursday, May 25th 2023, 1:25:20 am"
 ---
 
 *How heavily should we tax top income?*

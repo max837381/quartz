@@ -1,7 +1,4 @@
 ---
-title: Type 1 Error
-date created: "Sunday, May 7th 2023, 3:30:45 pm"
-date modified: "Thursday, May 25th 2023, 1:25:20 am"
 ---
 
 Discover non-sense

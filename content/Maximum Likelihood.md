@@ -1,7 +1,4 @@
 ---
-title: Maximum Likelihood
-date created: "Wednesday, February 8th 2023, 12:08:06 pm"
-date modified: "Thursday, May 25th 2023, 1:25:20 am"
 ---
 
 Maximum Likelihood

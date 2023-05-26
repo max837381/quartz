@@ -1,7 +1,4 @@
 ---
-title: Python
-date created: "Monday, May 1st 2023, 5:28:06 pm"
-date modified: "Thursday, May 25th 2023, 1:25:20 am"
 ---
 
 ## Statistical Models
@@ -89,3 +86,5 @@ from sklearn.linear_model import LinearRegression
 Y = d1.debtgdp.values.reshape(-1,1)
 X = d1.
 ````
+
+[Selenium](Selenium.md)

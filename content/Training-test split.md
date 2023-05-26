@@ -1,7 +1,4 @@
 ---
-title: Training-test split
-date created: "Sunday, May 7th 2023, 3:51:45 pm"
-date modified: "Thursday, May 25th 2023, 1:25:20 am"
 ---
 
 We can develop and optimize a model on the training set
@@ -14,8 +11,8 @@ set.seed(0) # for reproducibility
 
 auto_split <- initial_split(df, prop = 0.8)
 
-df_train <- training(auto_split)
-df_test <- testing(auto_split)
+train <- training(auto_split)
+test <- testing(auto_split)
 ````
 
 We should only use the test set once

@@ -1,7 +1,4 @@
 ---
-title: Total Factor Productivity
-date created: "Thursday, April 6th 2023, 5:46:28 pm"
-date modified: "Thursday, May 25th 2023, 1:25:20 am"
 ---
 
 Define total factor productivity in macroeconomics and give an example and the production function

@@ -1,7 +1,4 @@
 ---
-title: Statistics
-date created: "Wednesday, February 1st 2023, 1:33:33 am"
-date modified: "Thursday, May 25th 2023, 1:25:20 am"
 ---
 
 It statistics we are comparing things

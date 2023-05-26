@@ -1,7 +1,4 @@
 ---
-title: Resampling
-date created: "Sunday, May 7th 2023, 3:46:08 pm"
-date modified: "Thursday, May 25th 2023, 1:25:20 am"
 ---
 
 Allows for creation of useful models that can more confidently answer questions about the data

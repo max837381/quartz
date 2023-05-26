@@ -1,7 +1,4 @@
 ---
-title: Frequentist Probability
-date created: "Tuesday, February 21st 2023, 4:25:23 pm"
-date modified: "Thursday, May 25th 2023, 1:25:20 am"
 ---
 
 Assumptions:
@@ -12,6 +9,6 @@ Assumptions:
 
 $$P\_{F}(A \mid B) = \lim\_{n\to\infty}\frac{\text{\# of repetitions so far where A = True}}{\text{\# of repetitions so far (a.k.a. = n)}}$$
 
-If the limit exists and is unique, then by the *Law of Large Numbers* it equals the [Classical Probability](Classical%20Probability.md) or [Pascal-Fermat Probability](Pascal-Fermat%20Probability.md) (which I believe are the same?? #edit)
+If the limit exists and is unique, then by the [Law of Large Numbers](Law%20of%20Large%20Numbers.md) it equals the [Classical Probability](Classical%20Probability.md) or [Pascal-Fermat Probability](Pascal-Fermat%20Probability.md) (which I believe are the same?? #edit)
 
 You have to make a stronger assumption

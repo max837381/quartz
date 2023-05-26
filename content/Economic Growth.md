@@ -1,7 +1,4 @@
 ---
-title: Economic Growth
-date created: "Thursday, April 20th 2023, 5:36:39 pm"
-date modified: "Thursday, May 25th 2023, 1:25:20 am"
 ---
 
 * Savings rate

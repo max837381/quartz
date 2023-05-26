@@ -1,7 +1,4 @@
 ---
-title: 2SLS
-date created: "Tuesday, January 31st 2023, 6:34:13 pm"
-date modified: "Thursday, May 25th 2023, 1:23:35 am"
 ---
 
 2SLS stands for two-stage least squares and is a statistical method used in econometrics to estimate the causal relationship between two variables, where one variable affects the other. 

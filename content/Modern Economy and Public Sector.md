@@ -1,7 +1,4 @@
 ---
-title: Modern Economy and Public Sector
-date created: "Tuesday, April 4th 2023, 12:06:58 pm"
-date modified: "Thursday, May 25th 2023, 1:25:20 am"
 ---
 
 ### Important Aspects of the Economy

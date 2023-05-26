@@ -1,7 +1,4 @@
 ---
-title: Bernstein-von Mises Theorem
-date created: "Saturday, March 25th 2023, 4:41:37 pm"
-date modified: "Thursday, May 25th 2023, 1:25:20 am"
 ---
 
 The Bernstein-von Mises theorem states that when the sample size is sufficiently large and the prior distribution is "vague" (low-information), the posterior distribution from a [Bayesian Statistics](Bayesian%20Statistics.md) analysis is approximately equal to the [Maximum Likelihood](Maximum%20Likelihood.md) (ML) estimator, which is obtained from [Frequentist Statistics](Frequentist%20Statistics.md) inference.

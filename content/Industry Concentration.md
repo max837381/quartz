@@ -1,7 +1,4 @@
 ---
-title: Industry Concentration
-date created: "Tuesday, April 4th 2023, 1:05:10 pm"
-date modified: "Thursday, May 25th 2023, 1:25:20 am"
 ---
 
 ## Firms are getting older and larger
@@ -11,7 +8,7 @@ HHI = ∑(squared market share of each firm)
 
 1:12:00 for how to do the equation #todo
 
-$$\Large HHI = (\sum\_{i} s^2_i) * 10K$$
+$$\Large HHI = (\sum\_{i} s^2_i) * 10,000$$
 
 where the squared market share of each firm is calculated by multiplying its market share by itself.
 

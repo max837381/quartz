@@ -1,7 +1,4 @@
 ---
-title: McFadden R-squared
-date created: "Wednesday, April 19th 2023, 11:11:27 pm"
-date modified: "Thursday, May 25th 2023, 1:25:20 am"
 ---
 
 McFadden's R-squared is a measure of the goodness of fit of a logistic regression model. It is a commonly used metric to evaluate how well the model fits the data. McFadden's R-squared is based on the ratio of the log-likelihoods of the fitted model and a baseline model with only an intercept term. The formula for McFadden's R-squared is:

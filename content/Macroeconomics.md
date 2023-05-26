@@ -1,7 +1,4 @@
 ---
-title: Macroeconomics
-date created: "Tuesday, April 4th 2023, 5:47:04 pm"
-date modified: "Thursday, May 25th 2023, 1:25:20 am"
 ---
 
 How systems work at the country level and global economy
